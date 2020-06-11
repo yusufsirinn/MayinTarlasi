@@ -1,0 +1,11 @@
+E:\Dersler\C#\vize\vize\bin\Debug\vize.exe.config
+E:\Dersler\C#\vize\vize\bin\Debug\vize.exe
+E:\Dersler\C#\vize\vize\bin\Debug\vize.pdb
+E:\Dersler\C#\vize\vize\obj\Debug\163311061.csprojAssemblyReference.cache
+E:\Dersler\C#\vize\vize\obj\Debug\vize.FormOyunlar.resources
+E:\Dersler\C#\vize\vize\obj\Debug\vize.FormOnIzleme.resources
+E:\Dersler\C#\vize\vize\obj\Debug\vize.Properties.Resources.resources
+E:\Dersler\C#\vize\vize\obj\Debug\163311061.csproj.GenerateResource.cache
+E:\Dersler\C#\vize\vize\obj\Debug\163311061.csproj.CoreCompileInputs.cache
+E:\Dersler\C#\vize\vize\obj\Debug\vize.exe
+E:\Dersler\C#\vize\vize\obj\Debug\vize.pdb

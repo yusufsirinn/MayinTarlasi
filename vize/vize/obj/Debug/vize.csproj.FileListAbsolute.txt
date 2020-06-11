@@ -1,0 +1,10 @@
+C:\Users\Yusuf\source\repos\vize\vize\bin\Debug\vize.exe.config
+C:\Users\Yusuf\source\repos\vize\vize\bin\Debug\vize.exe
+C:\Users\Yusuf\source\repos\vize\vize\bin\Debug\vize.pdb
+C:\Users\Yusuf\source\repos\vize\vize\obj\Debug\vize.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\vize\vize\obj\Debug\vize.Form1.resources
+C:\Users\Yusuf\source\repos\vize\vize\obj\Debug\vize.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\vize\vize\obj\Debug\vize.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\vize\vize\obj\Debug\vize.exe
+C:\Users\Yusuf\source\repos\vize\vize\obj\Debug\vize.pdb
+C:\Users\Yusuf\source\repos\vize\vize\obj\Debug\vize.FormOnIzleme.resources
